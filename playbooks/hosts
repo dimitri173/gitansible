@@ -1,0 +1,4 @@
+[web]
+172.16.10.11 ansible_user=root
+[db]
+172.16.10.11 ansible_user=root

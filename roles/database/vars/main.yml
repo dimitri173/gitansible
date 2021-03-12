@@ -1,0 +1,4 @@
+---
+# vars file for database
+# defaults file for database
+default_root_password: ""
